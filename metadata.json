@@ -1,0 +1,5 @@
+{
+  "name": "Swara Sethu",
+  "description": "A secure AI voice detection system using multi-modal analysis (CNN, LSTM, XGBoost) to identify synthetic speech patterns in supported Indian and English languages.",
+  "requestFramePermissions": []
+}
